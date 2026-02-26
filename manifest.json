@@ -2,7 +2,7 @@
   "name": "Mjerenje odlagališnih plinova",
   "short_name": "MOP Mjerenje",
   "description": "Aplikacija za mjerenje emisija plinova iz odlagališta otpada - DVOKUT ECRO d.o.o.",
-  "start_url": "/mop-aplikacija/MOP_clean.html",
+  "start_url": "/mop-aplikacija/index.html",
   "scope": "/mop-aplikacija/",
   "display": "standalone",
   "background_color": "#dddddd",
@@ -24,5 +24,6 @@
     }
   ]
 }
+
 
 
